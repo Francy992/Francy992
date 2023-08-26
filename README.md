@@ -8,6 +8,8 @@
 - 📫 How to reach me **francesco.anastasio.92@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/francescoanastasio](www.linkedin.com/in/francescoanastasio)
+  
+- 📄 One of my personal projects [www.flate.com](www.flate.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
