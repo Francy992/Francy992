@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **francesco.anastasio.92@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/francescoanastasio](www.linkedin.com/in/francescoanastasio)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/francescoanastasio" target="blank">on Linkedin</a>
   
-- 📄 One of my personal projects [www.flate.com](www.flate.com)
+- 📄 One of my personal projects <a href="www.flate.com" target="blank">Flate</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
