@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/francescoanastasio" target="blank">on Linkedin</a>
   
-- 📄 One of my personal projects <a href="https://flate-frontend-test.azurewebsites.net/" target="blank">Flate</a>
+- 📄A couple of my personal projects <a href="https://flate-frontend-test.azurewebsites.net/" target="blank">Flate</a>, <a href="https://private-padel-app.com/dashboard" target="blank">Padel App</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
